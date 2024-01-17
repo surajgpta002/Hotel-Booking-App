@@ -15,7 +15,7 @@ const fs = require('fs');
 
 
 const bcryptSalt = bcrypt.genSaltSync(16);
-const jwtSecret = 'hsjajsskkskskaklXywwqusnjXBX';
+const jwtSecret = 'hsjajsskkskaklXywwqusnjXBX';
 
 
 
